@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ajaxOnLoad(${1:"${2:functionname}"})</string>
+      <key>name</key>
+      <string>ajaxOnLoad</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ajaxOnLoad</string>
+      <key>uuid</key>
+      <string>cdf7af6e-7f5d-4d1c-9add-ca4565e6bd7e</string>
+   </dict>
+</plist>

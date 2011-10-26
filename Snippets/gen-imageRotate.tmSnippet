@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageRotate(${1:"${2:name}", ${3:angle}${4:, [x]}${5:, [y]}${6:, [interpolation]}})</string>
+      <key>name</key>
+      <string>imageRotate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageRotate</string>
+      <key>uuid</key>
+      <string>025188bf-5113-429c-a7da-7607e454249d</string>
+   </dict>
+</plist>

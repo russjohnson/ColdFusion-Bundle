@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>dateFormat(${1:${2:date}${3:, [mask]}})</string>
+      <key>name</key>
+      <string>dateFormat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>dateFormat</string>
+      <key>uuid</key>
+      <string>84828512-2f5b-4810-a908-3329b37c64bf</string>
+   </dict>
+</plist>

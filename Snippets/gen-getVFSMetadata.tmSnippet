@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getVFSMetadata(${1:"${2:fileSystemType}"})</string>
+      <key>name</key>
+      <string>getVFSMetadata</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getVFSMetadata</string>
+      <key>uuid</key>
+      <string>f7f557ce-046d-4a6a-904a-b72125f0b1aa</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listSort(${1:"${2:list}", "${3:sort_type}"${4:, [sort_order]}${5:, [delimiters]}})</string>
+      <key>name</key>
+      <string>listSort</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listSort</string>
+      <key>uuid</key>
+      <string>1cbdbfd7-7660-4001-8eee-1aea3aa51b23</string>
+   </dict>
+</plist>

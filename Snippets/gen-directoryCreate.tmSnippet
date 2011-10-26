@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>directoryCreate(${1:"${2:path}"})</string>
+      <key>name</key>
+      <string>directoryCreate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>directoryCreate</string>
+      <key>uuid</key>
+      <string>ec180be4-9078-45a1-8565-5ae273b06e34</string>
+   </dict>
+</plist>

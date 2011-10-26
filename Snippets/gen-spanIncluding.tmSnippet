@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spanIncluding(${1:"${2:String}", "${3:set}"})</string>
+      <key>name</key>
+      <string>spanIncluding</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spanIncluding</string>
+      <key>uuid</key>
+      <string>9eb586ed-5ed4-4815-a7cc-45b0d49e7ccd</string>
+   </dict>
+</plist>

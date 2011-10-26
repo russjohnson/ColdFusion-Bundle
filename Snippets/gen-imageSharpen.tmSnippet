@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageSharpen(${1:"${2:name}"${3:, [gain]}})</string>
+      <key>name</key>
+      <string>imageSharpen</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageSharpen</string>
+      <key>uuid</key>
+      <string>67c819f7-2a98-4d60-ae49-f432f3f54444</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageWrite(${1:"${2:name}"${3:, [destination]}${4:, [quality]}${5:, [overwrite]}})</string>
+      <key>name</key>
+      <string>imageWrite</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageWrite</string>
+      <key>uuid</key>
+      <string>4b18eb54-1a25-4c70-9333-bc23795ce869</string>
+   </dict>
+</plist>

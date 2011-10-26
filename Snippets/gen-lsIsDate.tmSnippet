@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>lsIsDate(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>lsIsDate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>lsIsDate</string>
+      <key>uuid</key>
+      <string>b8bbe3d9-3fb2-4fc3-a341-4d32f8e84178</string>
+   </dict>
+</plist>

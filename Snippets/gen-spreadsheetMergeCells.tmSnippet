@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetMergeCells(${1:${2:spreadsheetObj}, ${3:startrow}, ${4:endrow}, ${5:startcolumn}, ${6:endcolumn}})</string>
+      <key>name</key>
+      <string>spreadsheetMergeCells</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetMergeCells</string>
+      <key>uuid</key>
+      <string>b87cda77-b467-4a7f-b2aa-19a4b3046a97</string>
+   </dict>
+</plist>

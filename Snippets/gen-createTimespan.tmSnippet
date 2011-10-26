@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>createTimespan(${1:${2:days}, ${3:hours}, ${4:minutes}, ${5:seconds}})</string>
+      <key>name</key>
+      <string>createTimespan</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>createTimespan</string>
+      <key>uuid</key>
+      <string>398d1da1-55ae-4119-96f0-d1a333a286fe</string>
+   </dict>
+</plist>

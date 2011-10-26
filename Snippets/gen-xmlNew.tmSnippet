@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>xmlNew(${1:${2:[casesensitive]}})</string>
+      <key>name</key>
+      <string>xmlNew</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>xmlNew</string>
+      <key>uuid</key>
+      <string>f8707327-ed70-459e-ab0a-7780d84ce67f</string>
+   </dict>
+</plist>

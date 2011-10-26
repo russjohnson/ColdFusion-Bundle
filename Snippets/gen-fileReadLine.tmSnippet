@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileReadLine(${1:${2:Param1}})</string>
+      <key>name</key>
+      <string>fileReadLine</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileReadLine</string>
+      <key>uuid</key>
+      <string>c030294a-b3af-4439-a389-0066578d7a92</string>
+   </dict>
+</plist>

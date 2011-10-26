@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listContains(${1:"${2:list}", "${3:substring}"${4:, [delimiters]}})</string>
+      <key>name</key>
+      <string>listContains</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listContains</string>
+      <key>uuid</key>
+      <string>75092d2e-4411-4da8-9f7b-caed16b28414</string>
+   </dict>
+</plist>

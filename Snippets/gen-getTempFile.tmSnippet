@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getTempFile(${1:"${2:dir}", "${3:prefix}"})</string>
+      <key>name</key>
+      <string>getTempFile</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getTempFile</string>
+      <key>uuid</key>
+      <string>9afa772a-5bf7-4c6d-bf6e-8a5d30124950</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileMove(${1:${2:source}, ${3:destination}})</string>
+      <key>name</key>
+      <string>fileMove</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileMove</string>
+      <key>uuid</key>
+      <string>db0d01a9-13e9-4f0f-bd1b-e129fe759968</string>
+   </dict>
+</plist>

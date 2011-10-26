@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>rTrim(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>rTrim</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>rTrim</string>
+      <key>uuid</key>
+      <string>890cf05b-1a4b-440f-8f00-1b8725f8b6a7</string>
+   </dict>
+</plist>

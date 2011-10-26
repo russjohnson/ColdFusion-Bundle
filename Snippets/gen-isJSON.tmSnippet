@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isJSON(${1:"${2:var}"})</string>
+      <key>name</key>
+      <string>isJSON</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isJSON</string>
+      <key>uuid</key>
+      <string>08d296fe-56c6-4e1f-9f8a-9bb12bcffa91</string>
+   </dict>
+</plist>

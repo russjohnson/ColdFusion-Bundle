@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listChangeDelims(${1:"${2:list}", "${3:new_delimiter}"${4:, [delimiters]}})</string>
+      <key>name</key>
+      <string>listChangeDelims</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listChangeDelims</string>
+      <key>uuid</key>
+      <string>b4cbadac-0dce-41ba-bd83-51ad887f2e0d</string>
+   </dict>
+</plist>

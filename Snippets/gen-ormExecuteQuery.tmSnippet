@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ormExecuteQuery(${1:"${2:hql}"${3:, [unique]}${4:, [queryoptions]}})</string>
+      <key>name</key>
+      <string>ormExecuteQuery</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ormExecuteQuery</string>
+      <key>uuid</key>
+      <string>8b7bbb39-db1a-492f-b753-0d0fe54730a3</string>
+   </dict>
+</plist>

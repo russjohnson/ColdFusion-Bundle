@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>stripCR(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>stripCR</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>stripCR</string>
+      <key>uuid</key>
+      <string>3a5832e1-03b4-46fa-8fb8-2eae4c23ad79</string>
+   </dict>
+</plist>

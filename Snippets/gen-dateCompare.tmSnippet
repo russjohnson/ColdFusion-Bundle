@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>dateCompare(${1:${2:date1}, ${3:date2}${4:, [datePart]}})</string>
+      <key>name</key>
+      <string>dateCompare</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>dateCompare</string>
+      <key>uuid</key>
+      <string>a9d0b51d-f0d8-421b-a647-4a5e35e2a0ca</string>
+   </dict>
+</plist>

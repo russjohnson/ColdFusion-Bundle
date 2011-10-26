@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageNegative(${1:"${2:name}"})</string>
+      <key>name</key>
+      <string>imageNegative</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageNegative</string>
+      <key>uuid</key>
+      <string>93336738-752b-40b0-8e02-86196ce24019</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageGrayScale(${1:"${2:name}"})</string>
+      <key>name</key>
+      <string>imageGrayScale</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageGrayScale</string>
+      <key>uuid</key>
+      <string>0c30c008-b1b6-4dd1-bd3b-81b2a78b101b</string>
+   </dict>
+</plist>

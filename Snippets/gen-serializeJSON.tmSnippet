@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>serializeJSON(${1:${2:var}${3:, [serializeQueryByColumns]}})</string>
+      <key>name</key>
+      <string>serializeJSON</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>serializeJSON</string>
+      <key>uuid</key>
+      <string>2b95dda4-b7f4-448b-888d-1ad005c6f8a2</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>replaceNoCase(${1:"${2:String}", "${3:substring1}", "${4:substring2}"${5:, [scope]}})</string>
+      <key>name</key>
+      <string>replaceNoCase</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>replaceNoCase</string>
+      <key>uuid</key>
+      <string>da8adb85-e101-4ce7-97b9-814da2e2a709</string>
+   </dict>
+</plist>

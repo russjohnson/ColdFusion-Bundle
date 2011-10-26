@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageGetBufferedImage(${1:"${2:name}"})</string>
+      <key>name</key>
+      <string>imageGetBufferedImage</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageGetBufferedImage</string>
+      <key>uuid</key>
+      <string>44ecc7f0-4376-4817-ba77-682a3ffbaa60</string>
+   </dict>
+</plist>

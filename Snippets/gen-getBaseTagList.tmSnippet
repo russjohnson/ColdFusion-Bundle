@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getBaseTagList(${1:})</string>
+      <key>name</key>
+      <string>getBaseTagList</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getBaseTagList</string>
+      <key>uuid</key>
+      <string>a7006cb9-8276-4576-8dc1-a516dd1ab1f0</string>
+   </dict>
+</plist>

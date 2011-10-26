@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>directoryList(${1:"${2:path}"${3:, [recurse]}${4:, [returnType]}${5:, [filter]}${6:, [sort]}})</string>
+      <key>name</key>
+      <string>directoryList</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>directoryList</string>
+      <key>uuid</key>
+      <string>88b61b5a-b00d-480d-bad4-9ab8219d0dc8</string>
+   </dict>
+</plist>

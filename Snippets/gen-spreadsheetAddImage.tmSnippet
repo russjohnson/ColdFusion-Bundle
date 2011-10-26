@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetAddimage(${1:${2:spreadsheetObj}, "${3:imagefilepath}", "${4:anchor}"})</string>
+      <key>name</key>
+      <string>spreadsheetAddimage</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetAddimage</string>
+      <key>uuid</key>
+      <string>9ae512af-0bbc-4ba7-bc13-7590ea612654</string>
+   </dict>
+</plist>

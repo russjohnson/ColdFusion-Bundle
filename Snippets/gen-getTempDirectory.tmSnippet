@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getTempDirectory(${1:})</string>
+      <key>name</key>
+      <string>getTempDirectory</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getTempDirectory</string>
+      <key>uuid</key>
+      <string>5b16cbb4-addc-4830-ba5f-2f99d149ba7a</string>
+   </dict>
+</plist>

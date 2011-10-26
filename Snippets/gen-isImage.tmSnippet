@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isImage(${1:"${2:name}"})</string>
+      <key>name</key>
+      <string>isImage</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isImage</string>
+      <key>uuid</key>
+      <string>5d74b64b-68b7-4649-a931-11b6c91aface</string>
+   </dict>
+</plist>

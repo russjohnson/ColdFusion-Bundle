@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageTranslate(${1:"${2:name}", ${3:xTrans}, ${4:yTrans}${5:, [interpolation]}})</string>
+      <key>name</key>
+      <string>imageTranslate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageTranslate</string>
+      <key>uuid</key>
+      <string>6209fed2-54bd-40cd-b5b4-08bef63f051b</string>
+   </dict>
+</plist>

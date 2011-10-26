@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isArray(${1:${2:value}${3:, [number]}})</string>
+      <key>name</key>
+      <string>isArray</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isArray</string>
+      <key>uuid</key>
+      <string>e6c017b6-fbb4-421b-9e03-d6f02182a9bd</string>
+   </dict>
+</plist>

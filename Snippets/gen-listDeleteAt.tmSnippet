@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listDeleteAt(${1:"${2:list}", ${3:position}${4:, [delimiters]}})</string>
+      <key>name</key>
+      <string>listDeleteAt</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listDeleteAt</string>
+      <key>uuid</key>
+      <string>75097a58-6e76-441c-b2d9-d94fb6327270</string>
+   </dict>
+</plist>

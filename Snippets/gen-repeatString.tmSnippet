@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>repeatString(${1:"${2:String}", ${3:count}})</string>
+      <key>name</key>
+      <string>repeatString</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>repeatString</string>
+      <key>uuid</key>
+      <string>3e678a5c-d13e-4d8b-bdbf-0742f4858469</string>
+   </dict>
+</plist>

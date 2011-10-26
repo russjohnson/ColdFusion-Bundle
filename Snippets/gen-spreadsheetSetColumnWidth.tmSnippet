@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetSetColumnWidth(${1:${2:spreadsheetObj}, ${3:columnNumber}, ${4:width}})</string>
+      <key>name</key>
+      <string>spreadsheetSetColumnWidth</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetSetColumnWidth</string>
+      <key>uuid</key>
+      <string>c51e963a-485b-455c-af9c-2b0be67c826c</string>
+   </dict>
+</plist>

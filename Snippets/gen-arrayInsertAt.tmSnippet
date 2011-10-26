@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayInsertAt(${1:${2:array}, ${3:position}, ${4:value}})</string>
+      <key>name</key>
+      <string>arrayInsertAt</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayInsertAt</string>
+      <key>uuid</key>
+      <string>7268bc24-9745-48f0-9798-fd7d6ac6703f</string>
+   </dict>
+</plist>

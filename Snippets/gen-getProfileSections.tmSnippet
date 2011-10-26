@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getProfileSections(${1:"${2:inifile}"})</string>
+      <key>name</key>
+      <string>getProfileSections</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getProfileSections</string>
+      <key>uuid</key>
+      <string>46b13c07-847c-4f63-bbfe-38956d4ef84a</string>
+   </dict>
+</plist>

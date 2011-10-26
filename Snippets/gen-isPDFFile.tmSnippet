@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isPDFFile(${1:"${2:path}"})</string>
+      <key>name</key>
+      <string>isPDFFile</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isPDFFile</string>
+      <key>uuid</key>
+      <string>dc7067d9-d20b-42dc-aa55-35d1b206279b</string>
+   </dict>
+</plist>

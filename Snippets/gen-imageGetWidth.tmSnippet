@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageGetWidth(${1:"${2:name}"})</string>
+      <key>name</key>
+      <string>imageGetWidth</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageGetWidth</string>
+      <key>uuid</key>
+      <string>b8df80ca-822c-49fc-88eb-011aea701cdd</string>
+   </dict>
+</plist>

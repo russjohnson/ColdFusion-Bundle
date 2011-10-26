@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileIsEOF(${1:${2:fileObject}})</string>
+      <key>name</key>
+      <string>fileIsEOF</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileIsEOF</string>
+      <key>uuid</key>
+      <string>a93c8244-f80f-437a-8b5d-f906ca00fff4</string>
+   </dict>
+</plist>

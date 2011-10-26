@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isIPV6(${1:"${2:IP}"})</string>
+      <key>name</key>
+      <string>isIPV6</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isIPV6</string>
+      <key>uuid</key>
+      <string>0def1f6f-7d37-4423-a5e5-0a28bb03625f</string>
+   </dict>
+</plist>

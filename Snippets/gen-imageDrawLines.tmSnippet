@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageDrawLines(${1:"${2:name}", ${3:xcords}, ${4:ycords}${5:, [isPolygon]}${6:, [filled]}})</string>
+      <key>name</key>
+      <string>imageDrawLines</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageDrawLines</string>
+      <key>uuid</key>
+      <string>749850eb-a0ff-4744-af5c-8766056bf7d7</string>
+   </dict>
+</plist>

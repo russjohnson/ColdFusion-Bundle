@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listToArray(${1:"${2:list}"${3:, [delimiters]}${4:, [includeEmptyFields]}${5:, [multiCharacterDelimiter]}})</string>
+      <key>name</key>
+      <string>listToArray</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listToArray</string>
+      <key>uuid</key>
+      <string>fb210aef-1f2c-4279-95fa-6042f2a3c666</string>
+   </dict>
+</plist>

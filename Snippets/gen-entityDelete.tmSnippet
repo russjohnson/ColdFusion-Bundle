@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>entityDelete(${1:${2:entity}})</string>
+      <key>name</key>
+      <string>entityDelete</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>entityDelete</string>
+      <key>uuid</key>
+      <string>a6622a94-9a6f-4549-b0a1-e8d9a99c81c5</string>
+   </dict>
+</plist>

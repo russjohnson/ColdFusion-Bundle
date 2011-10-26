@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>setProfileString(${1:"${2:inipath}", "${3:section}", "${4:entry}", "${5:value}"})</string>
+      <key>name</key>
+      <string>setProfileString</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>setProfileString</string>
+      <key>uuid</key>
+      <string>60d2bd3a-9c5c-4458-9f1d-68d18d2564f0</string>
+   </dict>
+</plist>

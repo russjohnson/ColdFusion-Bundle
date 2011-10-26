@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>transactionSetSavepoint(${1:"${2:savepoint}"})</string>
+      <key>name</key>
+      <string>transactionSetSavepoint</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>transactionSetSavepoint</string>
+      <key>uuid</key>
+      <string>f89a8b1c-7ea3-42fe-9a17-93a4ea031da7</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ormReload(${1:})</string>
+      <key>name</key>
+      <string>ormReload</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ormReload</string>
+      <key>uuid</key>
+      <string>c0c2b923-c6a9-4086-b68c-fdce7743796e</string>
+   </dict>
+</plist>

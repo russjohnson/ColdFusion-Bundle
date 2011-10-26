@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getHTTPTimeString(${1:${2:DateTime}})</string>
+      <key>name</key>
+      <string>getHTTPTimeString</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getHTTPTimeString</string>
+      <key>uuid</key>
+      <string>2780e7f1-0b22-4d3a-8783-385b9c30448a</string>
+   </dict>
+</plist>

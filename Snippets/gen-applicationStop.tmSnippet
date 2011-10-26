@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>applicationStop(${1:})</string>
+      <key>name</key>
+      <string>applicationStop</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>applicationStop</string>
+      <key>uuid</key>
+      <string>9fcf5dab-d87e-4f3c-8b35-d184739c7ecc</string>
+   </dict>
+</plist>

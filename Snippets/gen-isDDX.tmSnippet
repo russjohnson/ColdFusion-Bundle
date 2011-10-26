@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isDDX(${1:"${2:path}"})</string>
+      <key>name</key>
+      <string>isDDX</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isDDX</string>
+      <key>uuid</key>
+      <string>24e7a5b0-bb58-4cb2-aaf0-6e3717c4de53</string>
+   </dict>
+</plist>

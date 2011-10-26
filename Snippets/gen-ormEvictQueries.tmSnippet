@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ormEvictQueries(${1:${2:[cacheName]}})</string>
+      <key>name</key>
+      <string>ormEvictQueries</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ormEvictQueries</string>
+      <key>uuid</key>
+      <string>c76625b5-b14c-4171-a25b-35d77982effe</string>
+   </dict>
+</plist>

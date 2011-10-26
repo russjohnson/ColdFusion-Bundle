@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listPrepend(${1:"${2:list}", "${3:value}"${4:, [delimiters]}})</string>
+      <key>name</key>
+      <string>listPrepend</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listPrepend</string>
+      <key>uuid</key>
+      <string>a1148bea-742f-4866-b2cf-5812ab28cc2b</string>
+   </dict>
+</plist>

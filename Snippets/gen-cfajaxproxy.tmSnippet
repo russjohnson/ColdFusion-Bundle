@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfajaxproxy ${1:${2:cfc="$3" }${4:jsclassname="$5" }${6:bind="$7" }${8:onerror="$9" }${10:onsuccess="$11"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfajaxproxy</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfajaxproxy</string>
+      <key>uuid</key>
+      <string>d6a4c5b6-99fd-4c7e-bffb-9e66bbfaa9ec</string>
+   </dict>
+</plist>

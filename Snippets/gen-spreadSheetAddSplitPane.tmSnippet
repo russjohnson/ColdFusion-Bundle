@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadSheetAddSplitPane(${1:${2:spreadsheetObj}, ${3:x}, ${4:y}, ${5:splitColumn}, ${6:splitRow}${7:, [position]}})</string>
+      <key>name</key>
+      <string>spreadSheetAddSplitPane</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadSheetAddSplitPane</string>
+      <key>uuid</key>
+      <string>7b17f090-2785-4a9f-b9f5-35454cca208b</string>
+   </dict>
+</plist>

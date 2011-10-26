@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>dayOfWeekAsString(${1:${2:day_of_week}})</string>
+      <key>name</key>
+      <string>dayOfWeekAsString</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>dayOfWeekAsString</string>
+      <key>uuid</key>
+      <string>7bd66f6a-88aa-4572-a318-2f3095c86189</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getPrinterList(${1:"${2:printer}"})</string>
+      <key>name</key>
+      <string>getPrinterList</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getPrinterList</string>
+      <key>uuid</key>
+      <string>5ba926af-f2fb-4178-b951-895132669b09</string>
+   </dict>
+</plist>

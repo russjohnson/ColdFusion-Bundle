@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>yesNoFormat(${1:${2:value}})</string>
+      <key>name</key>
+      <string>yesNoFormat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>yesNoFormat</string>
+      <key>uuid</key>
+      <string>bda85357-d2f1-4e8d-8cba-ac144d2146ba</string>
+   </dict>
+</plist>

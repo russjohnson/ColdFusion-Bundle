@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>trace(${1:${2:[abort]}${3:, [category]}${4:, [inline]}${5:, [text]}${6:, [type]}${7:, [var]}})</string>
+      <key>name</key>
+      <string>trace</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>trace</string>
+      <key>uuid</key>
+      <string>a253cfd1-ea5a-4c29-ac1a-d14af8416007</string>
+   </dict>
+</plist>

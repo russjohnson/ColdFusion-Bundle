@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>precisionEvaluate(${1:"${2:expressions}"})</string>
+      <key>name</key>
+      <string>precisionEvaluate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>precisionEvaluate</string>
+      <key>uuid</key>
+      <string>bf415458-fe87-4209-a4b4-c91c544ed113</string>
+   </dict>
+</plist>

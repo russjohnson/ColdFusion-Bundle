@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>entityLoadByExample(${1:"${2:sampleEntity}"${3:, [unique]}})</string>
+      <key>name</key>
+      <string>entityLoadByExample</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>entityLoadByExample</string>
+      <key>uuid</key>
+      <string>a6779174-68d1-471a-a8f5-8ca0a57a91dc</string>
+   </dict>
+</plist>

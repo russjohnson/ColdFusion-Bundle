@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>objectload(${1:${2:binaryObject}})</string>
+      <key>name</key>
+      <string>objectload</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>objectload</string>
+      <key>uuid</key>
+      <string>04cd3a42-d72e-4166-a790-c9fbe6a9eca1</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>lCase(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>lCase</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>lCase</string>
+      <key>uuid</key>
+      <string>f6c849c5-22fa-4451-a4a4-c07fd348308f</string>
+   </dict>
+</plist>

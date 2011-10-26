@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>rematch(${1:"${2:reg_expression}", "${3:string}"})</string>
+      <key>name</key>
+      <string>rematch</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>rematch</string>
+      <key>uuid</key>
+      <string>caa44eaa-f1de-44e8-bd34-93a84f1d0438</string>
+   </dict>
+</plist>

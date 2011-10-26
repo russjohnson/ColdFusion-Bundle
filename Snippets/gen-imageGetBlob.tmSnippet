@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageGetBlob(${1:"${2:source}"})</string>
+      <key>name</key>
+      <string>imageGetBlob</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageGetBlob</string>
+      <key>uuid</key>
+      <string>d43dd4f8-276f-4a66-b3ca-e6c20883ecaf</string>
+   </dict>
+</plist>

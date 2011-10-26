@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfobjectcache ${1:${2:action="$3"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfobjectcache</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfobjectcache</string>
+      <key>uuid</key>
+      <string>abdd949c-fb45-49d3-8482-7b463d574f15</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isLocalhost(${1:"${2:ipaddress}"})</string>
+      <key>name</key>
+      <string>isLocalhost</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isLocalhost</string>
+      <key>uuid</key>
+      <string>8d5e3abf-9e98-4b80-ad31-26cc1ac31ab2</string>
+   </dict>
+</plist>

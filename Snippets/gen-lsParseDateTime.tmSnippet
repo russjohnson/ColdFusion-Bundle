@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>lsParseDateTime(${1:"${2:dt_string}"})</string>
+      <key>name</key>
+      <string>lsParseDateTime</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>lsParseDateTime</string>
+      <key>uuid</key>
+      <string>654bafab-d999-4730-8706-765fa6d3c346</string>
+   </dict>
+</plist>

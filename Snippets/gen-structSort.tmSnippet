@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structSort(${1:${2:base}, "${3:sorttype}", "${4:sortorder}", "${5:pathtosubelement}"})</string>
+      <key>name</key>
+      <string>structSort</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structSort</string>
+      <key>uuid</key>
+      <string>796b1983-1f33-41ad-a445-9c2e89b3fd78</string>
+   </dict>
+</plist>

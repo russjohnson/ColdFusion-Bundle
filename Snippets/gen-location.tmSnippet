@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>location(${1:"${2:url}"${3:, [addtoken]}${4:, [statuscode]}})</string>
+      <key>name</key>
+      <string>location</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>location</string>
+      <key>uuid</key>
+      <string>de548f29-c4a0-474e-b159-98316e566e72</string>
+   </dict>
+</plist>

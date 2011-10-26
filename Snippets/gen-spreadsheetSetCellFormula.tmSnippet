@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetSetCellFormula(${1:${2:spreadsheetObj}, "${3:formula}", ${4:row}, ${5:column}})</string>
+      <key>name</key>
+      <string>spreadsheetSetCellFormula</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetSetCellFormula</string>
+      <key>uuid</key>
+      <string>3ffbf98b-2ed3-48d5-ae4e-0236ee6344f4</string>
+   </dict>
+</plist>

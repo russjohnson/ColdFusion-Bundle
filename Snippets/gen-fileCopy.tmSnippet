@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileCopy(${1:"${2:source}", "${3:destination}"})</string>
+      <key>name</key>
+      <string>fileCopy</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileCopy</string>
+      <key>uuid</key>
+      <string>7ed58c13-47e8-43d1-8e19-81bdd9e85a92</string>
+   </dict>
+</plist>

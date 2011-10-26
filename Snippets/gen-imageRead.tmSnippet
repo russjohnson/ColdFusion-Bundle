@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageRead(${1:"${2:path}"})</string>
+      <key>name</key>
+      <string>imageRead</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageRead</string>
+      <key>uuid</key>
+      <string>485c7317-e32b-4808-83a5-cb37e801074c</string>
+   </dict>
+</plist>

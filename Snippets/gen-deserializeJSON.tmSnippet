@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>deserializeJSON(${1:"${2:jsonvar}"${3:, [strictmapping]}})</string>
+      <key>name</key>
+      <string>deserializeJSON</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>deserializeJSON</string>
+      <key>uuid</key>
+      <string>5d4e4604-4b0a-455a-8a77-b3e9a487e4f9</string>
+   </dict>
+</plist>

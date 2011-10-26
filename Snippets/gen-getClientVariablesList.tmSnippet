@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getClientVariablesList(${1:})</string>
+      <key>name</key>
+      <string>getClientVariablesList</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getClientVariablesList</string>
+      <key>uuid</key>
+      <string>abad3d87-a8cd-46a5-bb0a-30b2976ec421</string>
+   </dict>
+</plist>

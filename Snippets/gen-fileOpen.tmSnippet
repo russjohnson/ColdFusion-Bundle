@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileOpen(${1:${2:Param1}, ${3:Param2}, ${4:Param3}})</string>
+      <key>name</key>
+      <string>fileOpen</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileOpen</string>
+      <key>uuid</key>
+      <string>cbe57265-5a83-40ef-9cfa-a3f6b484b39a</string>
+   </dict>
+</plist>

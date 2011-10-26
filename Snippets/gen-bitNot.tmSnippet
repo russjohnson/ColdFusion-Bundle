@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>bitNot(${1:${2:number}})</string>
+      <key>name</key>
+      <string>bitNot</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>bitNot</string>
+      <key>uuid</key>
+      <string>e950d489-a768-4c75-9392-7dfe536f626a</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageClearRect(${1:"${2:name}", ${3:x}, ${4:y}, ${5:width}, ${6:height}})</string>
+      <key>name</key>
+      <string>imageClearRect</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageClearRect</string>
+      <key>uuid</key>
+      <string>7880e99a-9adf-43b1-9056-384f7dd9bcdc</string>
+   </dict>
+</plist>

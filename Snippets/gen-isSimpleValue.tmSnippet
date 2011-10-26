@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isSimpleValue(${1:${2:value}})</string>
+      <key>name</key>
+      <string>isSimpleValue</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isSimpleValue</string>
+      <key>uuid</key>
+      <string>af41b907-1a9d-44cb-ad12-1e7d83dee955</string>
+   </dict>
+</plist>

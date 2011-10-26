@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arraySwap(${1:${2:array}, ${3:position1}, ${4:position2}})</string>
+      <key>name</key>
+      <string>arraySwap</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arraySwap</string>
+      <key>uuid</key>
+      <string>3df906b8-0887-4a71-a4a2-3dcbb7b3e6d8</string>
+   </dict>
+</plist>

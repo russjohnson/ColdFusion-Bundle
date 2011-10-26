@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageDrawBeveledRect(${1:"${2:name}", ${3:x}, ${4:y}, ${5:width}, ${6:height}, ${7:raised}${8:, [filled]}})</string>
+      <key>name</key>
+      <string>imageDrawBeveledRect</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageDrawBeveledRect</string>
+      <key>uuid</key>
+      <string>a6e2b683-0f8a-4541-8bd5-77b48bdd3734</string>
+   </dict>
+</plist>

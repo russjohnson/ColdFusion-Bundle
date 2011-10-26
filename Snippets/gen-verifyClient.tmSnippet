@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>verifyClient(${1:})</string>
+      <key>name</key>
+      <string>verifyClient</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>verifyClient</string>
+      <key>uuid</key>
+      <string>4a4cac1e-611e-46dc-9a7e-a6f1d58e0740</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageBlur(${1:"${2:name}"${3:, [blurradius]}})</string>
+      <key>name</key>
+      <string>imageBlur</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageBlur</string>
+      <key>uuid</key>
+      <string>59372487-bf35-4a34-a9e9-b8d25c84da68</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getUserRoles(${1:})</string>
+      <key>name</key>
+      <string>getUserRoles</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getUserRoles</string>
+      <key>uuid</key>
+      <string>997a034e-5ccc-4450-a944-f666c19fd543</string>
+   </dict>
+</plist>

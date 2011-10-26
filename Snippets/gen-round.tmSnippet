@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>round(${1:${2:number}})</string>
+      <key>name</key>
+      <string>round</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>round</string>
+      <key>uuid</key>
+      <string>c455004e-dc00-40f1-b5e2-53f50dac5d97</string>
+   </dict>
+</plist>

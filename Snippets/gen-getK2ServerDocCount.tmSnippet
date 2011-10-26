@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getK2ServerDocCount(${1:})</string>
+      <key>name</key>
+      <string>getK2ServerDocCount</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getK2ServerDocCount</string>
+      <key>uuid</key>
+      <string>b80df7fa-5822-48f3-b59d-897b64ec1dd6</string>
+   </dict>
+</plist>

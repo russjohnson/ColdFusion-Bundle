@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getLocalhostIP(${1:})</string>
+      <key>name</key>
+      <string>getLocalhostIP</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getLocalhostIP</string>
+      <key>uuid</key>
+      <string>dde8bb8f-2a39-4540-ba58-6e126f2637ab</string>
+   </dict>
+</plist>

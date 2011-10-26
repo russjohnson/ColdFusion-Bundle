@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ImageGetExifMetaData(${1:"${2:name}"})</string>
+      <key>name</key>
+      <string>ImageGetExifMetaData</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ImageGetExifMetaData</string>
+      <key>uuid</key>
+      <string>fcbea774-f379-4c51-973e-3f49cb01fd9c</string>
+   </dict>
+</plist>

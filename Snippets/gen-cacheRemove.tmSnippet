@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>cacheRemove(${1:"${2:ids}"${3:, [throwOnError]}})</string>
+      <key>name</key>
+      <string>cacheRemove</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cacheRemove</string>
+      <key>uuid</key>
+      <string>5daa052d-9568-4d0a-b54d-926c60ced69c</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfassociate ${1:${2:basetag="$3" }${4:datacollection="$5"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfassociate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfassociate</string>
+      <key>uuid</key>
+      <string>30c691d4-ab31-4c64-8e63-f571f13ef3e4</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>entityReload(${1:${2:entity}})</string>
+      <key>name</key>
+      <string>entityReload</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>entityReload</string>
+      <key>uuid</key>
+      <string>54851532-562d-4a2a-b0b4-ac28a5b3b44f</string>
+   </dict>
+</plist>

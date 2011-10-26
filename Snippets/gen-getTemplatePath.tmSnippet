@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getTemplatePath(${1:})</string>
+      <key>name</key>
+      <string>getTemplatePath</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getTemplatePath</string>
+      <key>uuid</key>
+      <string>e6163b8e-34d7-4d80-b1db-fe75e4f36a9b</string>
+   </dict>
+</plist>

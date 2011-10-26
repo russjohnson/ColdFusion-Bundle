@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>toBinary(${1:${2:base64_or_object}})</string>
+      <key>name</key>
+      <string>toBinary</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>toBinary</string>
+      <key>uuid</key>
+      <string>29a3f8c9-d130-4af7-b2d8-5553fe8abb8e</string>
+   </dict>
+</plist>

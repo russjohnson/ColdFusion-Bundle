@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageCrop(${1:"${2:name}", ${3:x}, ${4:y}, ${5:width}, ${6:height}})</string>
+      <key>name</key>
+      <string>imageCrop</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageCrop</string>
+      <key>uuid</key>
+      <string>8d9a2bbc-8052-4097-b1cd-c9fbbad93e7c</string>
+   </dict>
+</plist>

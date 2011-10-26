@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileSetLastModified(${1:"${2:filePath}", ${3:date}})</string>
+      <key>name</key>
+      <string>fileSetLastModified</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileSetLastModified</string>
+      <key>uuid</key>
+      <string>09e9869e-ab5c-435c-8b11-c2da6322a0b1</string>
+   </dict>
+</plist>

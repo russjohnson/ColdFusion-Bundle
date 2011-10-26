@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetDeleteRows(${1:${2:spreadsheetObj}, ${3:range}})</string>
+      <key>name</key>
+      <string>spreadsheetDeleteRows</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetDeleteRows</string>
+      <key>uuid</key>
+      <string>1b717851-e34c-4acb-9f62-14cbbcd7db11</string>
+   </dict>
+</plist>

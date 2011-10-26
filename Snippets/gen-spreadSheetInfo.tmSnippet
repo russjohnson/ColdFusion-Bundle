@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadSheetInfo(${1:${2:spreadsheetObj}})</string>
+      <key>name</key>
+      <string>spreadSheetInfo</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadSheetInfo</string>
+      <key>uuid</key>
+      <string>cb0e3319-afd4-4e38-8171-0556516e75a4</string>
+   </dict>
+</plist>

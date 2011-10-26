@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageDrawText(${1:"${2:name}", "${3:str}", ${4:x}, ${5:y}, ${6:attributecollection}})</string>
+      <key>name</key>
+      <string>imageDrawText</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageDrawText</string>
+      <key>uuid</key>
+      <string>f38c7885-6fd7-47c6-850a-6d208d5ffa88</string>
+   </dict>
+</plist>

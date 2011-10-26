@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getPrinterInfo(${1:"${2:printer}"})</string>
+      <key>name</key>
+      <string>getPrinterInfo</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getPrinterInfo</string>
+      <key>uuid</key>
+      <string>60944374-95d0-4c48-82fa-4351f2fd8799</string>
+   </dict>
+</plist>

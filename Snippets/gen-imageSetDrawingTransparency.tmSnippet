@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageSetDrawingTransparency(${1:${2:name}, ${3:percent}})</string>
+      <key>name</key>
+      <string>imageSetDrawingTransparency</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageSetDrawingTransparency</string>
+      <key>uuid</key>
+      <string>8b439591-09bc-49f9-8c75-fbd4b335b6f0</string>
+   </dict>
+</plist>

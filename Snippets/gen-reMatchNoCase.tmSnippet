@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>reMatchNoCase(${1:"${2:reg_expression}", "${3:string}"})</string>
+      <key>name</key>
+      <string>reMatchNoCase</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>reMatchNoCase</string>
+      <key>uuid</key>
+      <string>b9967230-094d-4b12-acc1-166d50905f11</string>
+   </dict>
+</plist>

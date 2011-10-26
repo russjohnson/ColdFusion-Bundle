@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>directoryExists(${1:"${2:absolute_path}"})</string>
+      <key>name</key>
+      <string>directoryExists</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>directoryExists</string>
+      <key>uuid</key>
+      <string>a1a8a4b3-9f90-4f3a-b7ac-508ee419a406</string>
+   </dict>
+</plist>

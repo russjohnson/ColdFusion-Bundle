@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageWriteBase64(${1:"${2:name}", "${3:destination}", "${4:format}"${5:, [inHTMLFormat]}${6:, [overwrite]}})</string>
+      <key>name</key>
+      <string>imageWriteBase64</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageWriteBase64</string>
+      <key>uuid</key>
+      <string>3e21743c-91a6-4369-9d0d-34377d8beee3</string>
+   </dict>
+</plist>

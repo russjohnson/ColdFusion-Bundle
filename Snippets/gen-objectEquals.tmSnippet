@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>objectEquals(${1:${2:Param1}, ${3:Param2}})</string>
+      <key>name</key>
+      <string>objectEquals</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>objectEquals</string>
+      <key>uuid</key>
+      <string>e266ac01-24d8-48d5-90bb-cf4c3593f1bf</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>entityMerge(${1:${2:entity}})</string>
+      <key>name</key>
+      <string>entityMerge</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>entityMerge</string>
+      <key>uuid</key>
+      <string>55e8fc38-02cf-472e-ad6f-c526f8d7b4de</string>
+   </dict>
+</plist>

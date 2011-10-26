@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ceiling(${1:${2:number}})</string>
+      <key>name</key>
+      <string>ceiling</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ceiling</string>
+      <key>uuid</key>
+      <string>d1bbf7d0-0db0-4ba8-b84b-6451bf9eccfd</string>
+   </dict>
+</plist>

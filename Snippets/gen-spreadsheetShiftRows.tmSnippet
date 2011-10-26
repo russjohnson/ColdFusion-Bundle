@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetShiftRows(${1:${2:spreadsheetObj}, ${3:start}, ${4:end}${5:, [rows]}})</string>
+      <key>name</key>
+      <string>spreadsheetShiftRows</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetShiftRows</string>
+      <key>uuid</key>
+      <string>41bca494-f22c-49af-aaab-65364d303c40</string>
+   </dict>
+</plist>
